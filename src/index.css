@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+#card-data span{
+    font-weight: 600;
+}
+
+#card-data p{
+    color: gray;
+}
