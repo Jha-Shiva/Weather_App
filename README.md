@@ -2,6 +2,9 @@
 
 A modern weather forecast web application built with **React**, **Vite**, and **Tailwind CSS**. It provides current weather, air quality, hourly, and 7-day forecasts for any city or your current location, with light/dark mode support.
 
+## Live Link
+- [Weather_App_Link](https://climatestat.netlify.app/)
+
 ## Features
 
 - 🌤️ **Current Weather**: See temperature, conditions, wind, humidity, and more.
