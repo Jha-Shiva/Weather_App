@@ -1,5 +1,3 @@
-// src/hooks/usePm25Aqi.js
-
 export default function useAqi(pm25) {
   const breakpoints = [
     { c_low: 0, c_high: 30, i_low: 0, i_high: 50, category: "🟢Good" },
