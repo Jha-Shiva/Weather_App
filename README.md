@@ -2,7 +2,7 @@
 
 A modern weather forecast web application built with **React**, **Vite**, and **Tailwind CSS**. It provides current weather, air quality, hourly, and 7-day forecasts for any city or your current location, with light/dark mode support.
 
-## Table of ContentS
+## Table of Contents
 
 - [Live Link](#live-link)
 - [Features](#features)
